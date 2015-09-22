@@ -1,9 +1,5 @@
 package com.dashentao.customvideoview;
 
-/**
- * Created by Administrator on 2015/9/22.
- */
-
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -15,9 +11,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * @author dashentao
- * @date 2015 9-22
- * @since V 1.0
+ * Created by Administrator on 2015/9/22.
  */
 public class CustomVideoView extends View {
     // 半径
